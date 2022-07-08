@@ -1,3 +1,16 @@
 #untracked Files
 Data/
+#Within this folder the files are structured as follows;
+
+#testing Data for the first load to ensure proper loading and plotting:
+#Data/20220520/Ba-133/
+#Data/20220520/Cd-109/
+
+#Testing Data on the sheilding of the minipix camera used in firstload:
+#Data/20220603/Cd-109-(direction)/
+
+#Testing Data loaded from code, meant to test if camera is reading properly.
+#Data/shortData/
+#Data/short.txt
+
 
